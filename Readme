@@ -1,0 +1,5 @@
+1. Currently we are gettig the data from webapi in async mode.
+Current trechnologies.1- MVC2. Web APi3. Angular JS
+Configuration web.config file setting1. NumberOfRecordsFromApi- Currently it is set to as 100 because max to max we are getting 100 records from swigger api.2. DateFormat- UTC time format "yyyy'-'MM'-'dd'T'HH':'mm':'ss'.'fff'Z'"3. ApiBaseUrl- base url for swigger api "https://badapi.iqvia.io/api/v1/Tweets"4. AsyncTaskGap- Used for async call break the start and end date into multiple months. currenlty we are breaking on the basis of one momth  "1"
+-------------------------------Suggestions:1. Make more user friendly UI2. Take number of user input for searching the data on the basis of user requirement.
+for any more clarifucation plz contactshriyansh.mit@gmail.com+91-9650660376
